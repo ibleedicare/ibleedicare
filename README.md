@@ -8,7 +8,7 @@
 
 💬 Ask me about: Python, Vue.js, PHP and anything related to music production and Hacking.
 
-📫 How to reach me: Feel free to drop me a message on [GitHub](Your GitHub Profile URL) or [LinkedIn](Your LinkedIn URL).
+📫 How to reach me: Feel free to drop me a message on [LinkedIn](https://www.linkedin.com/in/jeremy-phetphoumy/).
 
 ⚡ Fun fact: When I'm not coding or creating music, I'm probably exploring new genres and try to push things to their limit.
 
@@ -19,10 +19,13 @@
 - PHP
 - Vue.js
 - Reaper
+- Langchain
+- Ollama
+- Lua
 
 ## 🎶 My Latest Tracks / Projects
 
-- [Attend Moi](https://soundcloud.com/slaughter-tone-records/hypersad)
+- [Wakeup Makeup](https://soundcloud.com/slaughter-tone-records/wakeup-makeup)
 
 ## 🌍 Let's Connect!
 - [Twitter](https://twitter.com/ibleedicare)
