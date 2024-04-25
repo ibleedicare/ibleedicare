@@ -28,5 +28,4 @@
 - [Wakeup Makeup](https://soundcloud.com/slaughter-tone-records/wakeup-makeup)
 
 ## 🌍 Let's Connect!
-- [Twitter](https://twitter.com/ibleedicare)
 - [Soundcloud](https://soundcloud.com/slaughter-tone-records)
